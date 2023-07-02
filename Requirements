@@ -1,0 +1,24 @@
+Requirements:
+
+Python 3.x
+OpenCV library
+PyAutoGUI library
+
+Installation:
+
+Clone the repository:
+
+
+Navigate to the project directory:
+
+
+Install the required libraries:
+
+
+Connect a webcam to your computer.
+
+
+Run the Python script:
+
+
+The cursor will move based on your eye movements.
