@@ -1,1 +1,4 @@
 git clone https://github.com/your-username/python-cursor-mover-with-eyes.git
+python cursor_mover_with_eyes.py
+pip install opencv-python pyautogui
+
